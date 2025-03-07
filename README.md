@@ -1,4 +1,4 @@
-A Simple C# .Net Framework And SSMS That Manages Purchases And Sales For A Company.
+A Simple C# .Net Framework And SSMS Windows App That Manages Purchases And Sales For A Company.
 
  
 
