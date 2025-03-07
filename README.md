@@ -2,4 +2,4 @@ A Simple C# .Net Framework And SSMS That Manages Purchases And Sales For A Compa
 
  
 
-This Was Done Using The Help Of [ReaLTaiizor]([https://pages.github.com/](https://github.com/Taiizor/ReaLTaiizor)).
+This Was Done Using The Help Of [ReaLTaiizor](https://github.com/Taiizor/ReaLTaiizor).
